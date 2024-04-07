@@ -1,0 +1,13 @@
+*{
+    background-color: black;
+}
+.kizil {
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    margin: 10px;
+  }
+  .yashil {
+    background-color: rgb(0, 255, 0);
+    text-align: center;
+    margin: 10px;
+  }
